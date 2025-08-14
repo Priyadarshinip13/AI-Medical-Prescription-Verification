@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+transformers==4.46.0
+torch                # Let pip pick the right wheel for your system
+pytesseract==0.3.13
+Pillow==10.1.0
+python-multipart==0.0.6
+requests==2.31.0
+streamlit==1.28.0
+pydantic==1.10.12
+aiofiles==23.1.0

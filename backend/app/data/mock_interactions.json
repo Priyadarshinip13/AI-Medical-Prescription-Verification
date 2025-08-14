@@ -1,0 +1,9 @@
+{
+  "patient": {
+    "age_years": 70,
+    "weight_kg": 55,
+    "egfr": 50,
+    "allergies": ["Penicillin"]
+}
+
+}
